@@ -1,6 +1,12 @@
-## 👋 Hi, I am Vitor
+👋 Hi, I am Vitor
+I'm a full-stack developer specializing in web applications, SPAs, and PWAs with a mobile-first approach. My primary focus is on backend development, but I'm also highly experienced with frontend technologies.
 
-...
+🚀 Technologies I work with:
+Backend: Java (8, 17), Spring, Spring JPA/Data, Node.js
+Frontend: Vue.js, Quasar, Bootstrap
+Process Automation: Camunda 7 (Business Process Automation)
+Other: SPAs, PWAs (Mobile-First)
+Feel free to connect with me!
 
 <hr>
 
