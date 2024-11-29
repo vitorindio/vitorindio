@@ -1,14 +1,21 @@
 👋 Hi, I am Vitor
 
-I'm a full-stack developer specializing in web applications, SPAs, and PWAs with a mobile-first approach. My primary focus is on backend development, but I'm also highly experienced with frontend technologies.
+I'm a full-stack developer actually working with web applications building, SPAs and PWAs with a mobile-first approach. My primary focus is on backend development, but I'm also experienced with frontend technologies as VueJs.
 
 🚀 Technologies I work with:
-Backend: Java (8, 17), Spring, Spring JPA/Data, Node.js
-Frontend: Vue.js, Quasar, Bootstrap
-Process Automation: Camunda 7 (Business Process Automation)
-Other: SPAs, PWAs (Mobile-First)
-Feel free to connect with me!
+ - Backend: Java (8, 17), Node.js
+ - Frontend: Vue.js, Quasar, Bootstrap
+ - Process Automation: Camunda 7 engine (Business Process Automation)
+ - Other: Spring(JPA), SPAs, PWAs
 
+💻 Currently working on:
+ - Open Source: [Cumes Brasil](https://github.com/rafael-ventura/cumes-brasil))
+ - Private Project: Process Automation Platform (current work)
+
+🎓 Education:
+ - Student at the Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
+
+Feel free to connect with me!
 <hr>
 
 <a href="#">
