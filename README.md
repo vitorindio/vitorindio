@@ -1,4 +1,5 @@
 👋 Hi, I am Vitor
+
 I'm a full-stack developer specializing in web applications, SPAs, and PWAs with a mobile-first approach. My primary focus is on backend development, but I'm also highly experienced with frontend technologies.
 
 🚀 Technologies I work with:
